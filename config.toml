@@ -1,3 +1,4 @@
 baseURL = "http://partkyle.dev/"
 languageCode = "en-us"
 title = "partkyle.dev"
+theme = "minimo"
